@@ -1,0 +1,25 @@
+{
+  "name": "uPDT Token List",
+  "logoURI": "https://raw.githubusercontent.com/pdtoken/uPDT/main/logo-256.png",
+  "timestamp": "2025-02-02T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "defi": {
+      "name": "DeFi",
+      "description": "Tokens related to decentralized finance projects"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x7D44Df6F8b9294EB9242B2FFF4c942E416Fd8481",
+      "name": "PDToken",
+      "symbol": "uPDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pdtoken/uPDT/main/logo-256.png",
+      "tags": ["defi"]
+    }
