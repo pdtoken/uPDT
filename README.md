@@ -64,5 +64,5 @@ Token entry (from `updt.tokenlist.json`):
   "name": "PDToken",
   "symbol": "uPDT",
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/<your_github_username>/uPDT/main/assets/uPDT/logo-256.png"
+  "logoURI": "https://raw.githubusercontent.com/pktoken/uPDT/main/assets/uPDT/logo-256.png"
 }
