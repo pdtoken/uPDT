@@ -1,7 +1,7 @@
 # uPDT
 This repository hosts the official token assets and metadata for **PDToken (uPDT)**   Deployed on BSC Testnet only. More details about Mainnet will be updated soon.
 
-# 🪙￼ PDToken (uPDT) — Official Token Assets
+# 🪙 PDToken (uPDT) — Official Token Assets
 
 This repository hosts the **official token assets and metadata** for **PDToken (uPDT)**.  
 It is designed for use by wallets, block explorers, DEX frontends, and token list aggregators (such as TrustWallet, PancakeSwap, CoinGecko, and CMC).
