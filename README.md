@@ -13,6 +13,7 @@ It is designed for use by wallets, block explorers, DEX frontends, and token lis
 updt-token-assets/
 │
 ├── LICENSE
+
 ├── README.md ← this file
 ├── updt.tokenlist.json ← ERC20 token list definition
 └── assets/
