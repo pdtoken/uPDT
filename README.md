@@ -11,6 +11,7 @@ It is designed for use by wallets, block explorers, DEX frontends, and token lis
 ## 📂 Repository Structure
 
 updt-token-assets/
+
 │
 ├── LICENSE
 ├── README.md ← this file
