@@ -1,6 +1,6 @@
 {
   "name": "uPDT Token List",
-  "logoURI": "https://raw.githubusercontent.com/pdtoken/uPDT/main/logo-256.png",
+  "logoURI": "https://pdtoken.github.io/uPDT/logo-256.png",
   "timestamp": "2025-02-02T00:00:00+00:00",
   "version": {
     "major": 1,
@@ -20,6 +20,6 @@
       "name": "PDToken",
       "symbol": "uPDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pdtoken/uPDT/main/logo-256.png",
+      "logoURI": "https://pdtoken.github.io/uPDT/logo-256.png",
       "tags": ["defi"]
     }
