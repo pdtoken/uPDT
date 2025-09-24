@@ -1,25 +1,31 @@
 {
-  "name": "uPDT Token List",
+  "name": "uPDT Official Token List",
   "logoURI": "https://pdtoken.github.io/uPDT/logo-256.png",
-  "timestamp": "2025-02-02T00:00:00+00:00",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
+  "keywords": ["uPDT", "defi", "ride", "utilise" "PinkTaxi" "community"],
+  "timestamp": "2025-09-03T17:15:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
   "tags": {
-    "defi": {
-      "name": "DeFi",
-      "description": "Tokens related to decentralized finance projects"
-    }
+    "official": { "name": "official", "description": "Verified by PinkTaxi team" },
+    "primary": { "name": "primary", "description": "Primary trading pairs" }
   },
   "tokens": [
     {
       "chainId": 97,
       "address": "0x7D44Df6F8b9294EB9242B2FFF4c942E416Fd8481",
-      "name": "PDToken",
       "symbol": "uPDT",
+      "name": "PDToken (Testnet)",
       "decimals": 18,
       "logoURI": "https://pdtoken.github.io/uPDT/logo-256.png",
-      "tags": ["defi"]
+      "tags": ["official", "primary"]
+    },
+    {
+      "chainId": 56,
+      "address": "<MAINNET_CONTRACT_ADDRESS>",
+      "symbol": "uPDT",
+      "name": "PDToken",
+      "decimals": 18,
+      "logoURI": "https://pdtoken.github.io/uPDT/logo-256.png",
+      "tags": ["official", "primary"]
     }
+  ]
+}
