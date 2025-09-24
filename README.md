@@ -15,7 +15,6 @@ updt-token-assets/
 │
 
 ├── LICENSE
-
 ├── README.md ← this file
 
 ├── updt.tokenlist.json ← ERC20 token list definition
