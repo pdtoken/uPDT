@@ -1,3 +1,34 @@
+<p align="center">
+  <img src="https://pdtoken.github.io/uPDT/logo-128.png" alt="uPDT Logo" width="96" height="96"/>
+</p>
+
+<h1 align="center">PDToken (uPDT)</h1>
+
+<p align="center">
+  <em>Official Token Assets & Metadata Repository</em>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <a href="https://testnet.bscscan.com/token/0x7D44Df6F8b9294EB9242B2FFF4c942E416Fd8481">
+    <img src="https://img.shields.io/badge/BSC-Verified-green?logo=binance" alt="BSC Testnet Verified">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <img src="https://img.shields.io/badge/Status-Testnet-orange.svg" alt="Testnet Status">
+</p>
+
+---
+
+## 📌 Overview
+
+This repository hosts the official **token assets, metadata, and tokenlist.json** for **PDToken (uPDT)**.
+
+- ✔️ Logo assets in multiple sizes (`128px`, `256px`, `512px`, `1024px`)
+- ✔️ ERC20 tokenlist (`updt.tokenlist.json`)
+- ✔️ License: MIT (free use for wallets/explorers)
+- ✔️ Verified contract on **BSC Testnet**  
+  [`0x7D44Df6F8b9294EB9242B2FFF4c942E416Fd8481`](https://testnet.bscscan.com/token/0x7D44Df6F8b9294EB9242B2FFF4c942E416Fd8481)  
+
 # uPDT
 This repository hosts the official token assets and metadata for **PDToken (uPDT)**   Deployed on BSC Testnet only. More details about Mainnet will be updated soon.
 
